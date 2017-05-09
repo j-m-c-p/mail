@@ -1,5 +1,5 @@
 <?php 
-        //Variables que reciben la informaciÃÂÃÂÃÂÃÂ³n de el formulario.
+        //Variables que reciben la información de el formulario.
 	$para=$_GET['para'];
 	$edad=$_GET['edad'];
 	$asunto=$_GET['asunto'];
